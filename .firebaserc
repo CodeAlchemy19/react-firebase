@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "react-firebase-f8d20",
+    "mobilesubscription": "mobilesubscription-8b2c9"
+  },
+  "targets": {},
+  "etags": {}
+}
